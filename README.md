@@ -16,6 +16,6 @@ Contents
 ## 課程筆記區
 
 ## 作業連結區
-*  [HW1]()
+*  [HW1](https://github.com/xiaoqian0108/Web/blob/main/HW1)
 
 ## 專題連結區
