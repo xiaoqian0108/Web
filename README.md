@@ -32,7 +32,20 @@ Contents
 
    ### Week3
 *  ####  資訊傳送的流程、DNS Server
- > *  [通訊協定](
+ > *  通訊協定：制定共同認定的協議標準讓用戶間可互相通訊
+ > *  [OSI model](https://youtu.be/KHMwhjQrCmo)
+ >    *  [The 7 layers of the OSI model](https://www.bmc.com/blogs/osi-model-7-layers/)
+ > *  [The DNS works](https://youtu.be/2ZUxoi7YNgs)
+ *  上課資訊：[ppt](https://docs.google.com/presentation/d/e/2PACX-1vSZo61VUAGVMwmapSMd-GN0wBLRQyTf943MTnphSZR-33nG1cN6LToABqfef0JRq9yZYs-TRp_3zFE9/pub?start=false&loop=false&delayms=3000&slide=id.p)、[影片](https://youtu.be/efQvdV3W1xU)
+ 
+   ### Week4
+*  ####  HTTP請求方法、HTTP狀態碼Status Code、實作server端
+ > *  [HTTP Status Code](https://youtu.be/mQVtJgyo_D4)
+ > *  [HTTP狀態碼](https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Status)
+ > *  [用 Node.js 實作 Server 端](https://bird23074035.medium.com/node-js-%E8%B5%B7%E6%89%8B%E5%BC%8F-%E8%87%AA%E6%9E%B6%E4%B8%80%E5%80%8B-web-server-9672f29a6102)
+ *  [*Youtuber 補充教材*](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC74v_mCLUXbjj7Ng7oTAPE)
+ *  上課資訊：[ppt](https://docs.google.com/presentation/d/e/2PACX-1vRzFbbpzLWLBeQLZibkd6VS3W5pjD9WhoEZd-EQav7x_2bh8nQs3owQPv0Ej-oqlCXYWy4RufLkMicY/pub?start=false&loop=false&delayms=3000&slide=id.p)、[影片](https://youtu.be/fvwETcSQ3ig)
+ 
 ## 作業連結區
 
 ## 專題連結區
