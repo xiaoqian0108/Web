@@ -21,6 +21,12 @@ Contents
  > *  [Node.js & React 安裝](https://youtu.be/ROGGhNpjid4)
  > *  撰寫Readme所需的[Markdown](https://markdown.tw/)語法
 
+   ### Week2
+*  #### 建立靜態網頁
+ > *  [HTML學習平台](https://www.w3schools.com/html/default.asp)
+ > *  [Bootstrap](https://getbootstrap.com/)(網頁模板)
+ > ** [Free Download](https://startbootstrap.com/themes)
+
 ## 作業連結區
 
 ## 專題連結區
