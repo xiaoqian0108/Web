@@ -47,5 +47,8 @@ Contents
  *  上課資訊：[ppt](https://docs.google.com/presentation/d/e/2PACX-1vRzFbbpzLWLBeQLZibkd6VS3W5pjD9WhoEZd-EQav7x_2bh8nQs3owQPv0Ej-oqlCXYWy4RufLkMicY/pub?start=false&loop=false&delayms=3000&slide=id.p)、[影片](https://youtu.be/fvwETcSQ3ig)
  
 ## 作業連結區
+*  [靜態網站](https://xiaoqian0108.github.io/Web/mypage/)
+*  [HW1]
+
 
 ## 專題連結區
