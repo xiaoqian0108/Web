@@ -25,7 +25,7 @@ Contents
 *  #### 建立靜態網頁
  > *  [HTML學習平台](https://www.w3schools.com/html/default.asp)
  > *  [Bootstrap](https://getbootstrap.com/)(網頁模板)
- > ** [Free Download](https://startbootstrap.com/themes)
+ >    * [Free Download](https://startbootstrap.com/themes)
 
 ## 作業連結區
 
