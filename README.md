@@ -15,7 +15,7 @@ Contents
 
 ## 課程筆記區
    ### Week1 
-   #### 課程大綱介紹、軟體安裝、撰寫Readme
+*  #### 課程大綱介紹、軟體安裝、撰寫Readme
  > *  [瀏覽器的誕生](https://youtu.be/7biUABNj92E)
  > *  [Visual Studio Code](https://code.visualstudio.com/)
  > *  [Node.js & React 安裝](https://youtu.be/ROGGhNpjid4)
