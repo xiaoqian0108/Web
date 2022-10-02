@@ -28,6 +28,7 @@ Contents
  > *  [Bootstrap](https://getbootstrap.com/)(網頁模板)
  >    * [Free Download](https://startbootstrap.com/themes)
  > *  [*My page*](https://xiaoqian0108.github.io/Web/mypage/)
+ *  上課資訊：[ppt](https://docs.google.com/presentation/d/e/2PACX-1vTDvYn3QV46gLMrZyRTLcVC_ZLSExGKp2NKSmynOjCl1TkSpo3l3objKNUJzvgniLzss6jtdrtxsPf4/pub?start=false&loop=false&delayms=3000&slide=id.p)、[影片1](https://youtu.be/Ij4mxYCc5Hw)、[影片2](https://youtu.be/zb3LB4dhlKk)、[影片3](https://youtu.be/gZW1Stvh9IY)
 
    ### Week3
 *  ####  資訊傳送的流程、DNS Server
