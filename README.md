@@ -20,7 +20,7 @@ Contents
  > *  [Visual Studio Code](https://code.visualstudio.com/)
  > *  [Node.js & React 安裝](https://youtu.be/ROGGhNpjid4)
  > *  撰寫Readme所需的[Markdown](https://markdown.tw/)語法
-*     上課資訊：[ppt](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.p)、[影片](https://youtu.be/5A1kyY9VrR0)
+    [ppt](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.p)、[影片](https://youtu.be/5A1kyY9VrR0)
 
    ### Week2
 *  #### 建立靜態網頁
