@@ -49,6 +49,6 @@ Contents
 ## 作業連結區
 *  [靜態網站](https://xiaoqian0108.github.io/Web/mypage/)
 *  [作業一](https://youtu.be/UQ4ZQYlp7lY)
-
+*  [作業二](https://youtu.be/8wqLstx3dzs)
 
 ## 專題連結區
