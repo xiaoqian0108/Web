@@ -46,6 +46,11 @@ Contents
  *  [*Youtuber 補充教材*](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC74v_mCLUXbjj7Ng7oTAPE)
  *  上課資訊：[ppt](https://docs.google.com/presentation/d/e/2PACX-1vRzFbbpzLWLBeQLZibkd6VS3W5pjD9WhoEZd-EQav7x_2bh8nQs3owQPv0Ej-oqlCXYWy4RufLkMicY/pub?start=false&loop=false&delayms=3000&slide=id.p)、[影片](https://youtu.be/fvwETcSQ3ig)
  
+   ### Week5
+*  ####  建立一個中心畫動態網頁
+ > *  [MySQL 下載](https://dev.mysql.com/downloads/installer/)
+ > *  [ReactJS,MySQL,NodeJs 前端後端連接(教學影片)](https://dev.mysql.com/downloads/installer/)
+ 
 ## 作業連結區
 *  [靜態網站](https://xiaoqian0108.github.io/Web/mypage/)
 *  [作業一](https://youtu.be/UQ4ZQYlp7lY)
