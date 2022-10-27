@@ -50,6 +50,10 @@ Contents
 *  ####  建立一個中心畫動態網頁
  > *  [MySQL 下載](https://dev.mysql.com/downloads/installer/)
  > *  [ReactJS,MySQL,NodeJs 前端後端連接(教學影片)](https://dev.mysql.com/downloads/installer/)
+
+   ### Week6
+*  #### AWS簡介及自學方案
+ > *  [AWS Educate](https://aws.amazon.com/tw/education/awseducate/)
  
 ## 作業連結區
 *  [靜態網站](https://xiaoqian0108.github.io/Web/mypage/)
