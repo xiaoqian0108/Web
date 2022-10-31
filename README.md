@@ -64,8 +64,6 @@ Contents
  >   ![Iaas、Paas、Saas](https://img.onl/tpo1qm)
  > * [參考文章](https://www.aalpha.net/blog/the-difference-between-paas-iaas-and-saas/)
  >   ![Iaas、Paas、Saas](https://img.onl/4eVlap)
- > * [參考文章](https://psibertech.com.sg/blog/blog-post/cloudy-judements-saas-paas-and-iaas)
- >   ![Iaas、Paas、Saas](https://img.onl/HG9pde)
  
 ## 作業連結區
 *  [靜態網站](https://xiaoqian0108.github.io/Web/mypage/)
