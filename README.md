@@ -60,7 +60,7 @@ Contents
     ### Week7
 *  #### Amazon EC2 Lab
  > * Iaas、Paas、Saas介紹與之間的差別
- >   ![Iaas、Paas、Saas](https://docs.google.com/presentation/d/e/2PACX-1vSSEM1SXvM4t0wwpSt9oNdG5uNm30FSAPNl6wvtoeexWk5w38FqFwVsuLGKIjWp04Tu_DZVNjU2ebjx/pub?start=false&loop=false&delayms=3000&slide=id.g168dbd6874a_0_73)
+ >   ![Iaas、Paas、Saas](https://img.onl/4eVlap)
  
 ## 作業連結區
 *  [靜態網站](https://xiaoqian0108.github.io/Web/mypage/)
