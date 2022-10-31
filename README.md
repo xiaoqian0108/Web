@@ -46,9 +46,27 @@ Contents
  *  [*Youtuber 補充教材*](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC74v_mCLUXbjj7Ng7oTAPE)
  *  上課資訊：[ppt](https://docs.google.com/presentation/d/e/2PACX-1vRzFbbpzLWLBeQLZibkd6VS3W5pjD9WhoEZd-EQav7x_2bh8nQs3owQPv0Ej-oqlCXYWy4RufLkMicY/pub?start=false&loop=false&delayms=3000&slide=id.p)、[影片](https://youtu.be/fvwETcSQ3ig)
  
+   ### Week5
+*  ####  建立一個中心畫動態網頁
+ > *  [MySQL 下載](https://dev.mysql.com/downloads/installer/)
+ > *  [ReactJS,MySQL,NodeJs 前端後端連接(教學影片)](https://dev.mysql.com/downloads/installer/)
+ *  上課資訊：[ppt](https://docs.google.com/presentation/d/e/2PACX-1vSm19M_AdUOrFG0hGHyuTWdvjHENudxSTDLgQpDghG7HGsW9ljLiPpXhahnFcqS4xU1mbDcXeFk-PMA/pub?start=false&loop=false&delayms=3000&slide=id.p)、[影片](https://www.youtube.com/watch?v=Bkhk4bivVPw)
+
+   ### Week6
+*  #### AWS簡介及自學方案
+ > *  [AWS Educate](https://aws.amazon.com/tw/education/awseducate/)
+ *  上課資訊：[ppt](https://docs.google.com/presentation/d/e/2PACX-1vQwXzwsXpz6GtsB2y1adorvi6a0OD3nXORh2g2nnER3YYPWsPKympVULtEOnMLSB4HZOcnsxnmdB1hg/pub?start=false&loop=false&delayms=3000&slide=id.p)、[影片1](https://youtu.be/OYcx16SnZPI)、[影片2](https://youtu.be/oeTcEzkWFag)
+ 
+    ### Week7
+*  #### Amazon EC2 Lab
+ > * Iaas、Paas、Saas介紹與之間的差別
+ >   ![Iaas、Paas、Saas](https://img.onl/tpo1qm)
+ >   [參考文章](https://velog.io/@rudgus/%EA%B3%B5%EB%B6%80%ED%95%9C-%EB%82%B4%EC%9A%A9-%EC%A0%81%EA%B8%B0NodeJS-AWS)
+ >   ![Iaas、Paas、Saas](https://img.onl/4eVlap)
+ 
 ## 作業連結區
 *  [靜態網站](https://xiaoqian0108.github.io/Web/mypage/)
 *  [作業一](https://youtu.be/UQ4ZQYlp7lY)
-
+*  [作業二](https://youtu.be/8wqLstx3dzs)
 
 ## 專題連結區
