@@ -60,9 +60,10 @@ Contents
     ### Week7
 *  #### Amazon EC2 Lab
  > * Iaas、Paas、Saas介紹與之間的差別
- >   ![Iaas、Paas、Saas](https://img.onl/tpo1qm)
- >   [參考文章](https://velog.io/@rudgus/%EA%B3%B5%EB%B6%80%ED%95%9C-%EB%82%B4%EC%9A%A9-%EC%A0%81%EA%B8%B0NodeJS-AWS)
- >   ![Iaas、Paas、Saas](https://img.onl/4eVlap)
+ > * [參考文章1](https://www.redhat.com/en/topics/cloud-computing/iaas-vs-paas-vs-saas)
+ > * [參考文章2](https://www.lucidchart.com/blog/cloud-computing-basics)
+ > * [參考文章3](https://www.aalpha.net/blog/the-difference-between-paas-iaas-and-saas/)
+ > * [參考文章4](https://psibertech.com.sg/blog/blog-post/cloudy-judements-saas-paas-and-iaas)
  
 ## 作業連結區
 *  [靜態網站](https://xiaoqian0108.github.io/Web/mypage/)
