@@ -64,11 +64,20 @@ Contents
  > * [參考文章2](https://www.lucidchart.com/blog/cloud-computing-basics)
  > * [參考文章3](https://www.aalpha.net/blog/the-difference-between-paas-iaas-and-saas/)
  > * [參考文章4](https://psibertech.com.sg/blog/blog-post/cloudy-judements-saas-paas-and-iaas)
+  *  上課資訊：[ppt](https://docs.google.com/presentation/d/e/2PACX-1vSSEM1SXvM4t0wwpSt9oNdG5uNm30FSAPNl6wvtoeexWk5w38FqFwVsuLGKIjWp04Tu_DZVNjU2ebjx/pub?start=false&loop=false&delayms=3000&slide=id.p)、[影片](https://youtu.be/vvKKRd9BOa4)
  
    ### Week8
 *  #### Introduction to Amazon Simple Storage Service(S3) Lab
  > * [AWS S3介紹](https://youtu.be/e6w9LwZJFIA)
  > * [使用AWS S3 實現 Web1](https://youtu.be/ujkXfPsU3Is)
+  *  上課資訊：[ppt](https://docs.google.com/presentation/d/e/2PACX-1vQy5r-MJNlBQzTtEEuDssJh2BOOOT6Yh2dDxdSHtDF2BtdXAgY4GECs_48o7JvCpIVVyw4Kxz3bwlRz/pub?start=false&loop=false&delayms=3000&slide=id.p)、[影片](https://youtu.be/646e6wXtnL0)、[Yahoo暑期實習資訊分享](https://youtu.be/cfTpMo61Akc)
+
+   ### Week9
+*  #### AWS IAM Lab
+*  ##### Web3.0與區塊鏈概念介紹 & 讓程式走出世界
+ > * [Web3.0發展討論](https://jamboard.google.com/d/1127uDX09-TOqNFRL8CwQdpJTHtH_c0md8hLQaAbGThw/viewer?pli=1)
+ > * [教育元宇宙](https://youtu.be/lPbRkV0R-8E)
+  *  上課資訊：[ppt](https://docs.google.com/presentation/d/e/2PACX-1vT8HwruQJiCoMUzmtlkEmzC5gCkDD0Ma_5f_3fGuvI8cl8QWc9L-sU-Dc43ZgEk7M9sUm9MWLQMVW7n/pub?start=false&loop=false&delayms=3000&slide=id.p)、[影片](https://youtu.be/blu5UMDbWag)
  
  
 ## 作業連結區
