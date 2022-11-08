@@ -65,6 +65,12 @@ Contents
  > * [參考文章3](https://www.aalpha.net/blog/the-difference-between-paas-iaas-and-saas/)
  > * [參考文章4](https://psibertech.com.sg/blog/blog-post/cloudy-judements-saas-paas-and-iaas)
  
+   ### Week8
+*  #### Introduction to Amazon Simple Storage Service(S3) Lab
+ > * [AWS S3介紹](https://youtu.be/e6w9LwZJFIA)
+ > * [使用AWS S3 實現 Web1](https://youtu.be/ujkXfPsU3Is)
+ 
+ 
 ## 作業連結區
 *  [靜態網站](https://xiaoqian0108.github.io/Web/mypage/)
 *  [作業一](https://youtu.be/UQ4ZQYlp7lY)
