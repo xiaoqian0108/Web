@@ -84,6 +84,7 @@ Contents
 *  [靜態網站](https://xiaoqian0108.github.io/Web/mypage/)
 *  [作業一](https://youtu.be/UQ4ZQYlp7lY)
 *  [作業二](https://youtu.be/8wqLstx3dzs)
-*  [作業三Lab1](https://youtu.be/BYEd7f_2sqM)、[作業三Lab2](https://youtu.be/7hJR9PJH87s)
+*  作業三[Lab1](https://youtu.be/BYEd7f_2sqM)、[Lab2](https://youtu.be/7hJR9PJH87s)
+*  作業四[Lab5](https://youtu.be/EhTjMFQBU48)、[Lab6](https://youtu.be/Gpcr2bSmh40)
 
 ## 專題連結區
