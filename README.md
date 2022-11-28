@@ -86,5 +86,6 @@ Contents
 *  [作業二](https://youtu.be/8wqLstx3dzs)
 *  作業三[Lab1](https://youtu.be/BYEd7f_2sqM)、[Lab2](https://youtu.be/7hJR9PJH87s)
 *  作業四[Lab5](https://youtu.be/EhTjMFQBU48)、[Lab6](https://youtu.be/Gpcr2bSmh40)
+*  作業五[Lab3](https://youtu.be/sgPiAfiBcdU)、[Lab4](https://youtu.be/YnBLOMeHAFM)、[Lab7](https://youtu.be/qDCx3mIgZ54)
 
 ## 專題連結區
